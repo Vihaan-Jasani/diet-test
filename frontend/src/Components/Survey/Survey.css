@@ -1,0 +1,13 @@
+.srform {
+  background-color: #fafafa;
+  position: absolute;
+  top: 20%;
+  border-radius: 15px;
+}
+
+.contain {
+  width: auto;
+  height: 100vh;
+  background-color: #dcedc8;
+  overflow: auto;
+}

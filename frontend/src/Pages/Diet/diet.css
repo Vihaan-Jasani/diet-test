@@ -1,0 +1,17 @@
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: #00b74a;
+  border-color: #00b74a;
+}
+
+.dishes {
+  color: #50cb93;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+body {
+  overflow-x: hidden;
+}

@@ -1,0 +1,20 @@
+.signup-img {
+  height: 100vh;
+  background-repeat: round;
+  background-size: cover;
+}
+
+.sform {
+  background-color: #fafafa;
+  margin-top: 3rem;
+  border-radius: 15px;
+}
+
+.button {
+  margin: 0rem;
+  width: 50%;
+}
+
+.line {
+  margin-left: 4rem;
+}
